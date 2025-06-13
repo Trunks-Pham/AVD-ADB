@@ -169,9 +169,9 @@
 ## 6. Contact for Work
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
-  <p><span style="color: #333; font-weight: bold;"> GitHub:</span> <a href="https://github.com/Trunks-Pham" style="color: #0366d6;">Trunks-Pham</a></p>
-  <p><span style="color: #333; font-weight: bold;"> LinkedIn:</span> <a href="https://www.linkedin.com/in/mtpe-minhthaopham" style="color: #0366d6;">Pham Minh Thao</a></p>
-  <p><span style="color: #333; font-weight: bold;"> Email:</span> <a href="mailto:minhthaopham230104@gmail.com" style="color: #0366d6;">minhthaopham230104@gmail.com</a></p>
+  <p><span style="color: #333; font-weight: bold;">- GitHub:</span> <a href="https://github.com/Trunks-Pham" style="color: #0366d6;">Trunks-Pham</a></p>
+  <p><span style="color: #333; font-weight: bold;">- LinkedIn:</span> <a href="https://www.linkedin.com/in/mtpe-minhthaopham" style="color: #0366d6;">Pham Minh Thao</a></p>
+  <p><span style="color: #333; font-weight: bold;">- Email:</span> <a href="mailto:minhthaopham230104@gmail.com" style="color: #0366d6;">minhthaopham230104@gmail.com</a></p>
 </div>
 
 ---
