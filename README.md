@@ -1,7 +1,5 @@
 # Guide to Running an Android Emulator and Screen Mirroring a Physical Device
-| |
-|:--|
-| **was written by Pham Minh Thao (Trunks-Pham)** |
+<div style="text-align: right;"><strong>was written by Pham Minh Thao (Trunks-Pham)</strong></div>
 
 ## 1. Running an Android Emulator Without Android Studio
 
