@@ -1,5 +1,5 @@
 # Guide to Running an Android Emulator and Screen Mirroring a Physical Device *was written by Pham Minh Thao (Trunks-Pham)*
-
+![Screens ADB and AVD](./AVD-ADB.png)
 ## 1. Running an Android Emulator Without Android Studio
 
 ### Requirements
