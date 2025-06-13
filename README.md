@@ -168,11 +168,9 @@
 
 ## 6. Contact for Work
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <p><span style="color: #333; font-weight: bold;">- GitHub:</span> <a href="https://github.com/Trunks-Pham" style="color: #0366d6;">Trunks-Pham</a></p>
-  <p><span style="color: #333; font-weight: bold;">- LinkedIn:</span> <a href="https://www.linkedin.com/in/mtpe-minhthaopham" style="color: #0366d6;">Pham Minh Thao</a></p>
-  <p><span style="color: #333; font-weight: bold;">- Email:</span> <a href="mailto:minhthaopham230104@gmail.com" style="color: #0366d6;">minhthaopham230104@gmail.com</a></p>
-</div>
+- [![GitHub](https://img.shields.io/badge/GitHub-Trunks--Pham-181717?style=flat&logo=github)](https://github.com/Trunks-Pham)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Minh%20Thao-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mtpe-minhthaopham)
+- 📧 **Email**: [minhthaopham230104@gmail.com](mailto:minhthaopham230104@gmail.com)
 
 ---
 
